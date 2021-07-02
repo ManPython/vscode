@@ -5,6 +5,7 @@
 
 # Due Open Source.. and Microsoft greed.. now everyone can have Visual Studio Code Browser for free : )
 https://techcrunch.com/2020/04/30/microsofts-visual-studio-online-code-editor-is-now-visual-studio-codespaces-and-gets-a-price-drop/
+OSsaS minds Open Source as Service and social monopoly ;p
 
 ## Visual Studio Code Browser
 <p align="center">
